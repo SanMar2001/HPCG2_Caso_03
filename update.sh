@@ -5,4 +5,3 @@ REPO_PATH="/home/cladmin/HPCG2_Caso_03"
 for W in "${WORKERS[@]}"; do
     ssh $W "cd $REPO_PATH && git pull"
 done
-
