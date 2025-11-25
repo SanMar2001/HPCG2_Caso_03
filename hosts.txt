@@ -1,0 +1,4 @@
+head slots=1
+wn1 slots=4
+wn2 slots=4
+wn3 slots=4
